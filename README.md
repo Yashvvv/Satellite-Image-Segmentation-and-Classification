@@ -1,1 +1,2 @@
 # Satellite-Image-Segmentation-and-Classification
+This project aims to segment and classify satellite images to identify regions affected by disasters. It uses machine learning techniques, including pre-trained models and custom neural networks, to detect and categorize damage from satellite imagery. This tool can be crucial in disaster management by providing timely and accurate assessments of affected areas, which can guide emergency response efforts.
